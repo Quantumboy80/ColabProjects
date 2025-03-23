@@ -27,6 +27,7 @@ Install required dependencies (if any) using:
  ```sh
 pip install -r requirements.txt
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ```
 Run the notebooks and analyze the data.
 
 💡 Contributing
