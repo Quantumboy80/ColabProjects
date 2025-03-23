@@ -15,7 +15,7 @@ A collection of Jupyter Notebooks created and executed on Google Colab for data 
    - Analyzes the US Census dataset for demographic insights.  
 6. **YouTube_Analysis_Of_Most_Subscribed_Channels.ipynb**  
    - Analyzes the most subscribed YouTube channels and their growth.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔧 How to Use  
 1. Clone the repository:  
    ```sh
@@ -24,10 +24,9 @@ Open the notebooks in Google Colab or Jupyter Notebook.
 
 Install required dependencies (if any) using:
 
-sh
-Copy
-Edit
+ ```sh
 pip install -r requirements.txt
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Run the notebooks and analyze the data.
 
 💡 Contributing
